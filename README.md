@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abdallah</h1>
-<h3 align="center">I'am an undergraduate student at the German University in Cairo Studying Computer Science and Engineering</h3>
+<h1 align="left">Hi 👋, I'm Abdallah</h1>
+<h2 align="left">I'am an undergraduate student at the German University in Cairo Studying Computer Science and Engineering</h2>
 
-- 🌱 I’m currently learning **Front-end and Backend Development**
+<h3 align="left">- 🌱 I’m currently learning **Front-end and Backend Development**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
