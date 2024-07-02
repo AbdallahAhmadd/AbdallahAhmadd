@@ -66,7 +66,7 @@
 ## 🚀 Check Out My Portfolio!👇🏻👇🏻
 
 <p align="center">
-  <a href="https://portfolio-sable-seven.vercel.app/" target="_blank">
+  <a href="[https://portfolio-sable-seven.vercel.app/](https://portofolio-sable-seven.vercel.app/)" target="_blank">
     <img width="1396" alt="Screenshot 2024-07-02 at 5 56 04 PM" src="https://github.com/AbdallahAhmadd/AbdallahAhmadd/assets/101679255/4132a31e-e8fd-4973-b8ac-147e01ce5f79" style="width: 600px; height: auto;">
 
   </a>
