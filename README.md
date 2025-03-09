@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Abdallah</h1>
 <h3 align="left">I am an undergraduate student at the German University in Cairo Studying Computer Science and Engineering</h3>
 
-🌱 I’m currently learning **Frontend and Backend development**
+🌱 I’m currently learning Machine Learning, AI and Angular
 
 <p align="left">
 </p>
@@ -60,8 +60,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a> 
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahahmadd&show_icons=true&locale=en&layout=compact" alt="abdallahahmadd" /></p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
