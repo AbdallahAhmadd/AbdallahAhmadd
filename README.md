@@ -22,7 +22,11 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Figma](https://skillicons.dev/icons?i=figma)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdallahahmadd&theme=onedark&exclude=stars,issues)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
+
+
 
 ## 🚀 Check Out My Portfolio!👇🏻👇🏻
 
