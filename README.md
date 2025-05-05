@@ -35,8 +35,11 @@
 
 <p align="center">
   <a href="https://portofolio-sable-seven.vercel.app" target="_blank">
-    <img width="1396" alt="Screenshot 2024-07-02 at 5 56 04 PM" src="https://github.com/AbdallahAhmadd/AbdallahAhmadd/assets/101679255/4132a31e-e8fd-4973-b8ac-147e01ce5f79" style="width: 600px; height: auto;">
-
+    <img 
+      width="600" 
+      alt="Screenshot of my portfolio" 
+      src="https://github.com/user-attachments/assets/56877af2-f7e3-48f8-8270-53164bab7f27"
+      style="height: auto;">
   </a>
 </p>
 
