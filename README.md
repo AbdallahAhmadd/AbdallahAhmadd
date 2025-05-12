@@ -15,6 +15,7 @@
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
   <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastApi"/>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
