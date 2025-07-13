@@ -25,9 +25,7 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </p>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdallahahmadd&theme=onedark&title=-Stars,-Issues" alt="GitHub Trophy" />
-  </a>
+ 
 </p>
 
 
